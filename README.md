@@ -6,3 +6,5 @@ The file bridges.data.txt is the dataset of PITTSBURGH_BRIDGES(the file is attac
 The given data is used to train test using different models like Logistic Regression, Random Forest Classifier, KNeighbour Classifier.
 
 Code:https://colab.research.google.com/drive/1DeW-Qke1IhZaxsp_m752PkpB_TmiJ2bH?usp=sharing 
+
+ML_PROJECT_11805157 file that is mentioned above is my report file.
